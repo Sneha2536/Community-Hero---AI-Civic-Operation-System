@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "An AI-powered civic engagement operating system to identify, report, verify, track, and resolve local issues through automatic image analysis, impact calculations, hot-spot mapping, and community collaboration.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
