@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base:'/Community-Hero---AI-Civic-Operation-System/'
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
