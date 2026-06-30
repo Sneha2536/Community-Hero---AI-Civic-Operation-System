@@ -84,7 +84,8 @@ Community Hero transforms issue reporting into an AI-driven workflow where:
 
 - Google AI Studio → Application development  
 - Gemini API → AI intelligence layer  
-- Google Maps API → Geospatial visualization  
+- Google Maps API → Geospatial visualization
+- Google Cloud Run → Application Deployment
 - Firebase → Authentication, database, storage, hosting support  
 
 ---
@@ -99,14 +100,31 @@ Community Hero transforms issue reporting into an AI-driven workflow where:
 
 ---
 
+## ☁️ Deployment
+
+The application is deployed on **Google Cloud Run** using **Google AI Studio**, ensuring secure, scalable, and publicly accessible hosting for evaluation.
+
 ## 🔗 Links
 
-- 🚀 Live Application: (paste deployed link here)  
-- 💻 GitHub Repository: (paste GitHub link here)  
-- 📄 Project Documentation: (Google Doc link)
+🌐 **Live Demo**
+**Google Cloud Deployment:**  
+https://community-hero-907814144646.us-west1.run.app
+
+💻 **Source Code**
+**GitHub Repository:**  
+https://github.com/Sneha2536/Community-Hero---AI-Civic-Operation-System
+
+📄 **Project Documentation**
+https://docs.google.com/document/d/1esGw2PDNCNMVslfzMZrK8VL6HxexxjHW8zEMFqC21j4/edit?usp=sharing
+👩‍💻 Developed by
+Sneha 
 
 ---
 
 ## 🏁 Issue Workflow
 
 Reported → Verified → Assigned → In Progress → Resolved → Closed
+
+## 📄 License
+
+This project was developed as part of the **Coding Ninjas × Google for Developers – Vibe2Ship Hackathon 2026**.
