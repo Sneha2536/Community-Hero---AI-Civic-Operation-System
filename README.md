@@ -50,9 +50,11 @@ Community Hero transforms issue reporting into an AI-driven workflow where:
 - Firebase Storage  
 
 ### Google Technologies
-- 🧠 Google Gemini API (AI issue classification, severity prediction, insights)  
-- 🗺️ Google Maps API (location tagging, visualization, heatmaps)  
-- ⚡ Google AI Studio (app generation & development workflow)  
+- Google AI Studio → Application development  
+- Gemini API → AI intelligence layer  
+- Google Maps API → Geospatial visualization
+- Google Cloud Run → Application Deployment
+- Firebase → Authentication, database, storage, hosting support
 
 ---
 
@@ -77,16 +79,6 @@ Community Hero transforms issue reporting into an AI-driven workflow where:
   - 🟡 Medium  
   - 🟢 Low  
 - Helps visualize civic problem hotspots in real-time  
-
----
-
-## 🔥 Google Technologies Used
-
-- Google AI Studio → Application development  
-- Gemini API → AI intelligence layer  
-- Google Maps API → Geospatial visualization
-- Google Cloud Run → Application Deployment
-- Firebase → Authentication, database, storage, hosting support  
 
 ---
 
